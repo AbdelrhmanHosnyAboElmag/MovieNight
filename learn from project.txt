@@ -1,0 +1,7 @@
+1)put url of webservces in textdocument and test it <note in paramater that be in result you can use it by &paramter="value"
+
+2)put request result in notepad than delte which not use
+
+3)do different pacakage like : pakage creditals to {base url.class,query.interface} ,package services have retrofit bulder
+
+4)mvvm:room or retrofit ->repository->livedata<viewmodel hava rxhava,livedata>->ui<observer>

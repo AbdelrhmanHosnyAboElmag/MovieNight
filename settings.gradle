@@ -1,0 +1,2 @@
+rootProject.name = "Moive_Night"
+include ':app'
